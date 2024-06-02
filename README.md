@@ -1,41 +1,20 @@
   # 僅僅用於個人展示 禁止商業用途 For personal demo only, commercial use prohibited.
-  
- 
-  ### CAR PLATE TIME CACULATION (The Last Solution) 
-  New energy parking spaces with the best timing plan(AI 車牌識別方案) C++(VIDEO),Python(AI),WEB APP(C#)
-  
-  ![image](sample/14.jpeg))
 
-  ### AI EVENT (Triger the swicth) AI BOX (Pyhton + VUE.JS)
-  ![image](/sample/AIBOX_LOT_CONNECTION%201.jpeg)
-  ![image](/sample/AI_BOX115.jpg)  ---------[THIS IS TONY LAW]---------------------
-  [mpeg] (/sample/AI_BOX1156_2.mp4)
-  [政府指定垃圾袋 AI 解決方案 AI BOX EDGE COMPUTING]
-   ![image](/sample/AI_BOX_EnglishVersion1.png)
-   ![image](/sample/AI_BOX_EnglishVersion2.png)
-   ![image](/sample/AI_BOX_EnglishVersion3A.png)
-   ![image](/sample/Engine_py_code.png)
-   
+  ![image](/sample/AIBOX_LOT_CONNECTION%201.jpeg)  
+
   ### HIKVISON SYNC 海康數據同步
-  ![image](/sample/HIK_SINGLE_SYNC123.jpg)
-  
+ ![image](/sample/HIK_SINGLE_SYNC123.jpg
+
  ### It can be applied to all of Industies.
 
 # Attendance and Salary System Bisic on Cloud 
                                               Architecture by Tony Law
- ----------------------------------------------------------------------------------------------
-  ![image](/sample/CIC3.jpg)
-  
-  ![image](sample/sampleData.jpg)
-  
-  ![image](sample/sampleData2.jpg)
+----------------------------------------------------------------------------------------------
  
-  ![image](sample/sampleData3.jpg)
-  
-  ![image](sample/sampleData4.jpg)
-  
-  ![image](sample/sampleData5.jpg)                                         
+
+![image](sample/sampleData2.jpg)        
 ###Overview of Attendance and Salary System Functions
+
 ### System Authority
 Authority management and function appointment.
 The highest authority SysAdmin system administrator is mainly to set up and authorize the entire system.
@@ -141,27 +120,17 @@ Different changes.
 ### Accounting currency
 Provide a variety of international currency options, such as Euro, Renminbi, U.S. dollar, British pound, Japanese yen, etc., which can be appropriately increased according to needs.
 
-### Income tax
-Impairment items, providing mixed calculation rules for fixed impairment items and ratio impairment items. Suitable for any situation.
 
-### Financial accounts
-Provide financial account query search list and extended links to other functions.
-
-### Financial details item
-Provide a list of financial details.
-
-### Personal financial overview
-Personal financial accounts and all detailed items are clear at a glance.
 
 ### CIC API 
 ![image](sample/1CIC.jpg)
-  
+
 ![image](sample/2CIC.jpg)
 
 ![image](sample/3CIC.jpg)
-  
+
 ![image](sample/4CIC.jpg)
-  
+
 ![image](sample/5CIC.jpg)
 
 ![image](sample/chunho10_400px.jpg)
@@ -171,4 +140,4 @@ Personal financial accounts and all detailed items are clear at a glance.
 ![image](sample/6CIC.jpg)
 
 
- 
+
