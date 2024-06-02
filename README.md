@@ -15,11 +15,11 @@
 
 
 ![image](sample/sampleData2.jpg)        
- 
+
 
 ![image](sample/4CIC.jpg)
 
-![image](sample/5CIC.jpg
+
 
 ![image](sample/chunho10_400px.jpg)
 
