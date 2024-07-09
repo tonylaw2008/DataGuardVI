@@ -1,33 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\caiha\\DESKTOP\\STARON\\DataGuardMainComII\\DataGuardVI\\ConnectionService\\ConnectionService.csproj": {}
+    "C:\\Users\\tonylaw\\Desktop\\DataGuardVI\\DataGuardVI\\ConnectionService\\ConnectionService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\caiha\\DESKTOP\\STARON\\DataGuardMainComII\\DataGuardVI\\CommonBase\\CommonBase.csproj": {
+    "C:\\Users\\tonylaw\\Desktop\\DataGuardVI\\DataGuardVI\\CommonBase\\CommonBase.csproj": {
       "version": "2.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caiha\\DESKTOP\\STARON\\DataGuardMainComII\\DataGuardVI\\CommonBase\\CommonBase.csproj",
+        "projectUniqueName": "C:\\Users\\tonylaw\\Desktop\\DataGuardVI\\DataGuardVI\\CommonBase\\CommonBase.csproj",
         "projectName": "CommonBase",
-        "projectPath": "C:\\Users\\caiha\\DESKTOP\\STARON\\DataGuardMainComII\\DataGuardVI\\CommonBase\\CommonBase.csproj",
-        "packagesPath": "C:\\Users\\caiha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caiha\\DESKTOP\\STARON\\DataGuardMainComII\\DataGuardVI\\CommonBase\\obj\\",
+        "projectPath": "C:\\Users\\tonylaw\\Desktop\\DataGuardVI\\DataGuardVI\\CommonBase\\CommonBase.csproj",
+        "packagesPath": "C:\\Users\\tonylaw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tonylaw\\Desktop\\DataGuardVI\\DataGuardVI\\CommonBase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\caiha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tonylaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -79,46 +78,46 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\caiha\\DESKTOP\\STARON\\DataGuardMainComII\\DataGuardVI\\ConnectionService\\ConnectionService.csproj": {
+    "C:\\Users\\tonylaw\\Desktop\\DataGuardVI\\DataGuardVI\\ConnectionService\\ConnectionService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caiha\\DESKTOP\\STARON\\DataGuardMainComII\\DataGuardVI\\ConnectionService\\ConnectionService.csproj",
+        "projectUniqueName": "C:\\Users\\tonylaw\\Desktop\\DataGuardVI\\DataGuardVI\\ConnectionService\\ConnectionService.csproj",
         "projectName": "ConnectionService",
-        "projectPath": "C:\\Users\\caiha\\DESKTOP\\STARON\\DataGuardMainComII\\DataGuardVI\\ConnectionService\\ConnectionService.csproj",
-        "packagesPath": "C:\\Users\\caiha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caiha\\DESKTOP\\STARON\\DataGuardMainComII\\DataGuardVI\\ConnectionService\\obj\\",
+        "projectPath": "C:\\Users\\tonylaw\\Desktop\\DataGuardVI\\DataGuardVI\\ConnectionService\\ConnectionService.csproj",
+        "packagesPath": "C:\\Users\\tonylaw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tonylaw\\Desktop\\DataGuardVI\\DataGuardVI\\ConnectionService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\caiha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tonylaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\caiha\\DESKTOP\\STARON\\DataGuardMainComII\\DataGuardVI\\CommonBase\\CommonBase.csproj": {
-                "projectPath": "C:\\Users\\caiha\\DESKTOP\\STARON\\DataGuardMainComII\\DataGuardVI\\CommonBase\\CommonBase.csproj"
+              "C:\\Users\\tonylaw\\Desktop\\DataGuardVI\\DataGuardVI\\CommonBase\\CommonBase.csproj": {
+                "projectPath": "C:\\Users\\tonylaw\\Desktop\\DataGuardVI\\DataGuardVI\\CommonBase\\CommonBase.csproj"
               }
             }
           }
@@ -150,11 +149,12 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

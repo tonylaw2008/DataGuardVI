@@ -2,7 +2,7 @@
 
   ![image](/sample/AIBOX_LOT_CONNECTION%201.jpeg)  
 
- 
+2024-7-9
 
  ### It can be applied to all of Industies.
 
